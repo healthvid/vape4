@@ -1,0 +1,158 @@
+.iconFont {
+    font-size: 14px;
+    padding-top:3px !important;
+    color: rgb(3, 3, 3);
+    font-weight: 700 !important;
+}
+
+.container{
+    width:80% !important;
+}
+.iconLine {
+    overflow: hidden !important; 
+    height: 40px;
+}
+
+.font-link {
+    font-family: 'Oleo Script', cursive;
+    font-size: 45px !important;
+    color: rgb(123, 194, 238);
+}
+/* .video{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+} */
+
+
+.viewDes {
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    color: rgb(96, 96, 96) !important;
+    width: 200px;
+    font-size: 14px;
+    font-weight: 400px !important;
+    white-space: nowrap;
+    margin-top:10px;
+}
+
+.btnSubscribe {
+    background-color: rgb(204, 0, 0) !important;
+    color:white !important;
+    font-size: 14px !important;
+    width: 100px !important;
+    height: 37px !important;
+    margin-right: 0px !important;
+    border-radius: 0px !important;
+}
+
+.subscribeNum{
+    color: rgb(96, 96, 96) !important;
+    font-size: 14px;
+    font-weight: 400px !important;
+  
+}
+
+.intro {
+    height: 100% !important;
+}
+
+
+.introduction {
+    font-size: 14px;
+    padding-top:3px !important;
+    color: rgb(3, 3, 3);
+    font-weight: 400 !important;
+    
+}
+
+.introWords {
+    height: 100%;
+    /* overflow-y: scroll !important; */
+}
+
+
+
+.commentsFirst {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+}
+
+.description {
+    font-size: 18px;
+    color: rgb(3, 3, 3);
+    font-weight: 500 !important;
+}
+
+.btnCancel {
+    color: rgb(96, 96, 96) !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    border-radius: 0px !important;
+
+}
+
+.btnSubmit {
+    color: rgb(96, 96, 96) !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    background-color:rgba(0, 0, 0, 0.05) !important;
+    border-radius: 0px !important;
+
+}
+
+/* @media (max-width: 768px) {
+    #icons {
+        display: none !important;
+    }
+}*/
+
+@media (max-width: 425px) {
+    #font-link {
+        font-size: 25px !important;
+    }
+    #btnCancel{
+        font-size: 10px !important;
+    }
+    #btnSubmit{
+        font-size: 10px !important;
+    }
+    #description{
+        font-size: 13px !important;
+    }
+    #center{
+       width: 100% !important;
+    }
+    #container{
+        width: 100% !important;
+    }
+}
+
+.list-group-item {
+    padding-left: 5px !important;
+    border: none !important;
+}
+
+.center{
+    margin: auto;
+    width:70%;
+}
+
+.comments-border{
+    padding-top:55px;
+    padding-bottom: 55px;
+}
+
+.commentsWords {
+    font-size: 13px;
+    padding-top:3px !important;
+    color: rgb(3, 3, 3);
+    padding-right:2px !important;
+    overflow-y: scroll !important;
+}
+
+.text-input{
+    overflow-y: scroll !important;
+}

@@ -1,25 +1,17 @@
-import logo from './logo.svg';
+import React from "react";
 import './App.css';
+import HomePage from "./components";
+import "./vendors/bootstrap/css/bootstrap.min.css";
+// import "./vendors/bootstrap/bootstrap.min.css";
+import "./vendors/fontawesome/css/all.min.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container-xxl p-3 bg-light text-dark pt-0 container " id='container' >
+      <HomePage/>
     </div>
   );
 }
 
 export default App;
+
