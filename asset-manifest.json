@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/vape4/static/css/main.68af4407.css",
+    "main.js": "/vape4/static/js/main.893698da.js",
+    "static/js/787.ffa34a8c.chunk.js": "/vape4/static/js/787.ffa34a8c.chunk.js",
+    "static/media/main_video.mp4": "/vape4/static/media/main_video.8df7f245501aed729f28.mp4",
+    "static/media/main_pic.png": "/vape4/static/media/main_pic.47cb2b402da2d078862d.png",
+    "static/media/profile_pic1.png": "/vape4/static/media/profile_pic1.c55c315d3f07c5fbcdb0.png",
+    "static/media/profile_pic5.png": "/vape4/static/media/profile_pic5.63ee3d11be416e86e758.png",
+    "static/media/profile_pic2.png": "/vape4/static/media/profile_pic2.fe7b84d4f6a1c6b3fe5e.png",
+    "static/media/profile_pic4.png": "/vape4/static/media/profile_pic4.d2561782133dfb2268f4.png",
+    "static/media/fa-solid-900.ttf": "/vape4/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/default.png": "/vape4/static/media/default.a3374618f6469998cf7f.png",
+    "static/media/fa-brands-400.ttf": "/vape4/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/fa-solid-900.woff2": "/vape4/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/logo.png": "/vape4/static/media/logo.c43987f5af6b996d407a.png",
+    "static/media/fa-brands-400.woff2": "/vape4/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/fa-regular-400.ttf": "/vape4/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/fa-regular-400.woff2": "/vape4/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/profile_pic6.png": "/vape4/static/media/profile_pic6.16cdbf2634f2facc748b.png",
+    "static/media/fa-v4compatibility.ttf": "/vape4/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/fa-v4compatibility.woff2": "/vape4/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "index.html": "/vape4/index.html",
+    "main.68af4407.css.map": "/vape4/static/css/main.68af4407.css.map",
+    "main.893698da.js.map": "/vape4/static/js/main.893698da.js.map",
+    "787.ffa34a8c.chunk.js.map": "/vape4/static/js/787.ffa34a8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68af4407.css",
+    "static/js/main.893698da.js"
+  ]
+}
