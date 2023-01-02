@@ -30,8 +30,6 @@ const HomePage = () => {
                 <Introduction />
                 <hr></hr>
 
-                {/*  About the comment */}
-               <CommentsTurnedOff/>
                <Comments/>
       </>
     );
