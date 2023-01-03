@@ -5,7 +5,6 @@ import Comments from './newComments'
 import "./style.css"
 import main_pic from './Videos/main_pic.png';
 import FontLink from "./fontLink";
-import CommentsTurnedOff from "./commentsTurnedOff";
 
 const HomePage = () => {
 

@@ -16,7 +16,7 @@
 .font-link {
     font-family: 'Oleo Script', cursive;
     font-size: 45px !important;
-    color: rgb(123, 194, 238);
+    color: #0074de;
 }
 /* .video{
     display: block;
@@ -141,8 +141,8 @@
 }
 
 .comments-border{
-    padding-top:55px;
-    padding-bottom: 55px;
+    padding-top:30px;
+    padding-bottom: 30px;
 }
 
 .commentsWords {
